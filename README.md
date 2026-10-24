@@ -22,7 +22,7 @@ I run **[rs-recruiting.com](https://rs-recruiting.com)** in production on my own
 
 | | |
 |---|---|
-| [**My-Home-Server**](https://github.com/lahavrud/My-Home-Server) | Self-hosted Immich replacing Google Photos on a 2 GB-RAM legacy laptop: Docker Compose, LVM, and a mesh VPN to get past CGNAT |
+| [**homelab**](https://github.com/lahavrud/homelab) | Proxmox homelab that runs unattended while I'm abroad: 14 LXC containers on ZFS, GPU transcoding and ML, verified off-site backups, staged updates with automatic rollback, and incident write-ups. Started as Docker Compose on a 2 GB laptop |
 | [**grisel**](https://github.com/lahavrud/grisel) | A general-purpose grid-selector TUI in Go (Bubble Tea) |
 | [**aws-saa-c03-practice-exam**](https://github.com/lahavrud/aws-saa-c03-practice-exam) | Practice-exam platform for the AWS Solutions Architect Associate |
 
@@ -47,6 +47,7 @@ I run **[rs-recruiting.com](https://rs-recruiting.com)** in production on my own
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
 **Delivery & Ops** &nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
